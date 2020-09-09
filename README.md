@@ -12,7 +12,7 @@
   return response.status(201).send();
 ```
 
-### Links 🔗
+### Social network links 🔗
 <p float="left">
   <a href="https://github.com/joselainejrs">
     <img src="https://github.com/joselainejrs/joselaineRomaoSoares/blob/master/img/icon/github-image.svg"  align="middle" width="20px" />
@@ -25,7 +25,9 @@
   </a>
 </p>
 
-![Imagem de Joselaine](https://github.com/joselainejrs/joselaineRomaoSoares/blob/master/img/joselaine.png)
+<p align="center">
+  <img  src="https://github.com/joselainejrs/joselaineRomaoSoares/blob/master/img/joselaine.png" alt="Imagem Joselaine">
+</p>
 
 <!--
 **joselainejrs/joselainejrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
