@@ -1,4 +1,4 @@
-### Hello people, i am [Joselaine Romão Soares](https://github.com/joselainejrs/joselaineRomaoSoares/) 🙋🏾‍♀️
+### Hello people, i am [Joselaine Romão Soares](https://github.com/joselainejrs/joselainejrs/) 🙋🏾‍♀️
 
 ```javascript
   async user.index({
@@ -15,18 +15,18 @@
 ### Social network links 🔗
 <p float="left">
   <a href="https://github.com/joselainejrs">
-    <img src="https://github.com/joselainejrs/joselaineRomaoSoares/blob/master/img/icon/github-image.svg"  align="middle" width="20px" />
+    <img src="https://github.com/joselainejrs/joselainejrs/blob/master/img/icon/github-image.svg"  align="middle" width="20px" />
   </a>
   <a href="https://www.linkedin.com/in/joselaine-soares/">
-    <img src="https://github.com/joselainejrs/joselaineRomaoSoares/blob/master/img/icon/linkedin.svg"  align="middle" width="20px"/>
+    <img src="https://github.com/joselainejrs/joselainejrs/blob/master/img/icon/linkedin.svg"  align="middle" width="20px"/>
   </a>
   <a href="https://www.instagram.com/lainecreating/">
-    <img src="https://github.com/joselainejrs/joselaineRomaoSoares/blob/master/img/icon/instagram.svg"  align="middle" width="20px"/>
+    <img src="https://github.com/joselainejrs/joselainejrs/blob/master/img/icon/instagram.svg"  align="middle" width="20px"/>
   </a>
 </p>
 
 <p align="center">
-  <img  src="https://github.com/joselainejrs/joselaineRomaoSoares/blob/master/img/joselaine.png" alt="Imagem Joselaine">
+  <img  src="https://github.com/joselainejrs/joselainejrs/blob/master/img/joselaine.png" alt="Imagem Joselaine">
 </p>
 
 <!--
