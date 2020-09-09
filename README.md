@@ -1,4 +1,4 @@
-### Hello people, i am [Joselaine Romão Soares](https://github.com/joselainejrs/joselainejrs/) 🙋🏾‍♀️
+### Hello people, i am [Joselaine](https://github.com/joselainejrs/joselainejrs/) 🙋🏾‍♀️
 
 ```javascript
   async user.index({
