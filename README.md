@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/joselaine-soares/">
     <img src="https://github.com/joselainejrs/joselainejrs/blob/master/img/icon/linkedin.svg"  align="middle" width="20px"/>
   </a>
-  <a href="https://www.instagram.com/lainecreating/">
+  <a href="https://www.instagram.com/jrs.creating/">
     <img src="https://github.com/joselainejrs/joselainejrs/blob/master/img/icon/instagram.svg"  align="middle" width="20px"/>
   </a>
 </p>
