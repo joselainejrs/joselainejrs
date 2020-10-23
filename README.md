@@ -17,14 +17,14 @@
   <a href="https://github.com/joselainejrs">
     <img src="https://github.com/joselainejrs/joselainejrs/blob/master/img/icon/github-image.svg"  align="middle" width="20px" />
   </a>
+    <a href="https://www.tumblr.com/blog/jrscreating">
+    <img src="https://github.com/joselainejrs/joselainejrs/blob/master/img/icon/tumblr.svg"  align="middle" width="20px"/>
+  </a>
   <a href="https://www.linkedin.com/in/joselaine-soares/">
     <img src="https://github.com/joselainejrs/joselainejrs/blob/master/img/icon/linkedin.svg"  align="middle" width="20px"/>
   </a>
   <a href="https://www.instagram.com/jrs.creating/">
     <img src="https://github.com/joselainejrs/joselainejrs/blob/master/img/icon/instagram.svg"  align="middle" width="20px"/>
-  </a>
-  <a href="https://www.tumblr.com/blog/jrscreating">
-    <img src="https://github.com/joselainejrs/joselainejrs/blob/master/img/icon/tumblr.svg"  align="middle" width="20px"/>
   </a>
 </p>
 
