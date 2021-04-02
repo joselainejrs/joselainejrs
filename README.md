@@ -3,7 +3,7 @@
 ```javascript
   async user.index({
     name: 'Joselaine Romão Soares',
-    age: 24,
+    age: 25,
     city: 'Carapicuiba, SP',
     stack: ['Node.js', 'React', 'Javascript', 'UX', 'UI'],
     hobby: 'I love movies, series, singing and drawing'
