@@ -9,7 +9,7 @@
     hobby: 'I love movies, series, singing and drawing'
   });
   
-  return response.status(201).send();
+  return response.status(200).send();
 ```
 
 ### Social network links 🔗
