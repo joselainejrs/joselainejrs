@@ -5,7 +5,7 @@
     name: 'Joselaine Romão Soares',
     age: 27,
     city: 'Carapicuiba, SP',
-    stack: ['Node.js', 'React', 'Angular', 'Javascript', 'UX', 'UI'],
+    stack: ['Node.js', 'React', 'Angular', 'Javascript', Testes Manuais, Testes Integrados, 'UX', 'UI'],
     hobby: 'I love movies, series, sing and drawing'
   });
   
