@@ -6,9 +6,8 @@
     age: 28,
     city: 'Carapicuiba, SP',
     stack: [
-          'Node.js', 'React', 'Angular', 'Javascript', 'Testes Manuais',
-          'Testes Integrados', 'UX', 'UI', 'Python', 'Testes Automatizados',
-          'Testes Unitarios'
+          'Node.js', 'Python', 'React', 'Angular', 'Javascript', 'Testes Automatizados',
+          'Testes unitários', 'UX', 'UI',
           ],
     hobby: 'I love movies, series, sing and drawing'
   });
